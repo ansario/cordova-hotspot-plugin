@@ -52,6 +52,8 @@
   "engine-strict": true,
   "engines": {
     "node": ">= 4.2.1",
-    "npm": ">= 3"
+    "npm": ">= 3",
+    "jsdoc-to-markdown": "3.0.0"
+
   }
 }
